@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+	<tags>
+		<tag language="简体中文"/>
+	</tags>
+	<strings>
+		<string id="carthageculture" text="卡尼克-纳哈西"/>
+		<string id="a2AjI8nc" text="阿赛莱是卡尔拉迪亚南部青铜沙漠（Nahasa）的主要居民。对外人来说，这似乎是一个荒凉之地，沙丘被砾石平原和火山岩突起打破。但是，地下有水，被困在凹陷处或在偶尔有闪电洪水经过的wadi下，在这些绿洲上，人们定居了。他们分为数十个部落和子部落，每个部落都有其复杂的家谱，但统称为Banu Asera，即“Asera的儿子”。他们的国家意识（尽管有限）源于追溯他们的血统到这个传奇的祖先。 他们的财富和权力相当可观，来自于控制孤立的水源，这些水源使得来自遥远土地的商队能够穿越沙漠。"/>
+
+		<!--男性角色名-->
+		<string id="carthage_male_name_1" text="阿卜迪米尔基" />
+		<string id="carthage_male_name_2" text="阿多尼巴尔" />
+		<string id="carthage_male_name_3" text="阿希拉姆" />
+		<string id="carthage_male_name_4" text="巴阿什利莱克" />
+		<string id="carthage_male_name_5" text="博德塔尼特" />
+		<string id="carthage_male_name_6" text="丹内尔" />
+		<string id="carthage_male_name_7" text="多迪" />
+		<string id="carthage_male_name_8" text="埃什穆纳马什" />
+		<string id="carthage_male_name_9" text="埃什穆纳扎尔" />
+		<string id="carthage_male_name_10" text="格尔梅尔卡特" />
+		<string id="carthage_male_name_11" text="吉斯库" />
+		<string id="carthage_male_name_12" text="哈梅尔卡特" />
+		<string id="carthage_male_name_13" text="汉尼巴尔" />
+		<string id="carthage_male_name_14" text="汉诺" />
+		<string id="carthage_male_name_15" text="希鲁姆" />
+		<string id="carthage_male_name_16" text="坎米" />
+		<string id="carthage_male_name_17" text="基莱特兹巴尔" />
+		<string id="carthage_male_name_18" text="马贡" />
+		<string id="carthage_male_name_19" text="马哈尔巴尔" />
+		<string id="carthage_male_name_20" text="梅尔卡特皮勒斯" />
+		<string id="carthage_male_name_21" text="米尔基亚顿" />
+		<string id="carthage_male_name_22" text="皮洛塞" />
+		<string id="carthage_male_name_23" text="里巴迪" />
+		<string id="carthage_male_name_224" text="萨卡尔巴尔" />
+		<string id="carthage_male_name_25" text="沙法特" />
+		<string id="carthage_male_name_26" text="塔布尼特" />
+		<string id="carthage_male_name_27" text="亚罗阿" />
+		<string id="carthage_male_name_28" text="耶哈维莱昂" />
+		<string id="carthage_male_name_29" text="尤特潘" />
+		<string id="carthage_male_name_30" text="齐姆里达" />
+		<string id="carthage_male_name_31" text="阿布达多姆" />
+		<string id="carthage_male_name_32" text="谢马多尼姆" />
+		<string id="carthage_male_name_33" text="杰罗赫尔" />
+		<string id="carthage_male_name_34" text="奥利巴阿尔" />
+		<string id="carthage_male_name_35" text="奥利米尔克" />
+		<string id="carthage_male_name_36" text="阿希亚蒙" />
+		<string id="carthage_male_name_37" text="伊巴阿尔" />
+		<string id="carthage_male_name_38" text="阿卜达利" />
+		<string id="carthage_male_name_39" text="阿里" />
+		<string id="carthage_male_name_40" text="阿布迪利姆" />
+		<string id="carthage_male_name_41" text="伊斯巴雷克" />
+		<string id="carthage_male_name_42" text="埃尔克鲁赫" />
+		<string id="carthage_male_name_43" text="乌罗米尔克" />
+		<string id="carthage_male_name_44" text="阿什提巴阿尔" />
+		<string id="carthage_male_name_45" text="伊沙迪尔" />
+		<string id="carthage_male_name_46" text="埃什蒙哈佐尔" />
+		<string id="carthage_male_name_47" text="埃什蒙哈洛茨" />
+		<string id="carthage_male_name_48" text="巴利亚洪" />
+		<string id="carthage_male_name_49" text="巴拉萨尔" />
+		<string id="carthage_male_name_50" text="阿比加德" />
+		
+		<!--女性角色名-->
+		<string id="carthage_female_name_1" text="阿布多西尔" />
+		<string id="carthage_female_name_2" text="阿里沙特" />
+		<string id="carthage_female_name_3" text="阿莫萨尔" />
+		<string id="carthage_female_name_4" text="阿莫特什蒙" />
+		<string id="carthage_female_name_5" text="阿莫特梅尔克" />
+		<string id="carthage_female_name_6" text="阿莫塔什塔尔" />
+		<string id="carthage_female_name_7" text="巴特雷谢普" />
+		<string id="carthage_female_name_8" text="巴塔达什特" />
+		<string id="carthage_female_name_9" text="埃利萨" />
+		<string id="carthage_female_name_10" text="加尔特梅尔卡特" />
+		<string id="carthage_female_name_11" text="加尔特什蒙" />
+		<string id="carthage_female_name_12" text="穆顿巴尔" />
+		<string id="carthage_female_name_13" text="莱利特" />
+		<string id="carthage_female_name_14" text="帕内斯姆洛特" />
+		<string id="carthage_female_name_15" text="帕拉什塔尔" />
+		<string id="carthage_female_name_16" text="尤帕" />
+		<string id="carthage_female_name_17" text="比尔基特" />
+		<string id="carthage_female_name_18" text="巴斯泰特" />
+		<string id="carthage_female_name_19" text="巴塔东" />
+		<string id="carthage_female_name_20" text="哈瓦" />
+		<string id="carthage_female_name_21" text="阿里希特" />
+		<string id="carthage_female_name_22" text="阿什塔尔特萨蓬" />
+		
+		<!--姓-->
+		<string id="carthage_clan_1" text="贝内伊·阿拉斯特" />
+		<string id="carthage_clan_2" text="贝内伊·苏尔" />
+		<string id="carthage_clan_3" text="马哈内提姆" />
+		<string id="carthage_clan_4" text="阿杜尼姆" />
+		<string id="carthage_clan_5" text="贝内伊·吉布布" />
+		<string id="carthage_clan_6" text="贝内伊·马尔凯" />
+		<string id="carthage_clan_7" text="鲁凯比姆" />
+		<string id="carthage_clan_8" text="本尼·马桑森" />
+		<string id="carthage_clan_9" text="祖昆尼姆" />
+		<string id="carthage_clan_10" text="本尼·马戈" />
+		<string id="carthage_clan_11" text="本尼·亚姆" />
+
+	</strings>
+</base>

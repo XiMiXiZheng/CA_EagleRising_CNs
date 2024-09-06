@@ -1,0 +1,41 @@
+<Prefab>
+
+	<Window>
+		<ListPanel DoNotAcceptEvents="true" WidthSizePolicy="Fixed" HeightSizePolicy="StretchToParent" SuggestedWidth="350">
+			<Children>
+				<RichTextWidget WidthSizePolicy="Fixed" HeightSizePolicy="CoverChildren" SuggestedWidth="300" MarginTop="-550" HorizontalAlignment="Center" VerticalAlignment="Center" Brush="Recruitment.Popup.Title.Text" Brush.FontSize="32" IsDisabled="true" Text="@Name" />
+				<CharacterTableauWidget DataSource="{UnitCharacter}" WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="300" SuggestedHeight="500" MarginLeft="-300" HorizontalAlignment="Center" VerticalAlignment="Center"	 BodyProperties="@BodyProperties" IsFemale="@IsFemale" EquipmentCode="@EquipmentCode" CharStringId="@CharStringId" StanceIndex="@StanceIndex" BannerCodeText="@BannerCodeText" MountCreationKey="@MountCreationKey" IsEnabled="false" ArmorColor1="@ArmorColor1" ArmorColor2="@ArmorColor2"/>
+				<ButtonWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" VerticalAlignment="Center" MarginLeft="-175" MarginBottom="-500" Brush="ButtonBrush1" Command.Click="RecuritUnit" Command.HoverBegin="ExecuteBeginHint" Command.HoverEnd="ExecuteEndHint" IsEnabled="true">
+					<Children>
+						<RichTextWidget DoNotAcceptEvents="true" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" VerticalAlignment="Center" Brush="OverlayPopup.ButtonText" Brush.FontSize="32" Text="晋升" />
+					</Children>
+				</ButtonWidget>
+				<ListPanel DataSource="{ArmorsList}" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" VerticalAlignment="Center" HorizontalAlignment="Center" StackLayout.LayoutMethod="VerticalBottomToTop" MarginLeft="-200" MarginBottom="-200">
+					<ItemTemplate>
+						<EquipmentTypeVisualWidget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="50" SuggestedHeight="50" HorizontalAlignment="Left" MarginLeft="15" MarginBottom="5" Brush="EquipmentType.Image" Command.HoverBegin="ExecuteBeginHint" Command.HoverEnd="ExecuteEndHint" IsVisible="@HasItem" Type="@Type" />
+					</ItemTemplate>
+				</ListPanel>
+				<ListPanel DataSource="{WeaponsList}" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" VerticalAlignment="Center" HorizontalAlignment="Center"	StackLayout.LayoutMethod="VerticalBottomToTop" MarginLeft="150" MarginBottom="-200">
+					<ItemTemplate>
+						<EquipmentTypeVisualWidget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="50" SuggestedHeight="50" HorizontalAlignment="Right" MarginRight="15" MarginBottom="5" Brush="EquipmentType.Image" Command.HoverBegin="ExecuteBeginHint" Command.HoverEnd="ExecuteEndHint" IsVisible="@HasItem" Type="@Type" />
+					</ItemTemplate>
+				</ListPanel>
+				<GridWidget DataSource="{Skills}" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" DefaultCellWidth="60" HorizontalAlignment="Center"  MarginLeft="-250" MarginBottom="-700" VerticalAlignment="Center" DefaultCellHeight="75" ColumnCount="4" StackLayout.LayoutMethod="BottomToTop">
+					<ItemTemplate>
+						<SkillIconVisualWidget WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent" SkillId="@SkillId" MarginBottom="20" UseSmallestVariation="true" MarginLeft="5">
+							<Children>
+								<TextWidget WidthSizePolicy="StretchToParent" HeightSizePolicy="Fixed" SuggestedHeight="20" IntText="@SkillValue" VerticalAlignment="Bottom" HorizontalAlignment="Center" Brush="Encyclopedia.Skill.Text" Brush.FontSize="20" PositionYOffset="20" ClipContents="false"/>
+							</Children>
+						</SkillIconVisualWidget>
+					</ItemTemplate>
+				</GridWidget>
+				<ListPanel DataSource="{Capacity}" WidthSizePolicy="Fixed" HeightSizePolicy="CoverChildren" SuggestedWidth="300" MarginTop="-470" MarginLeft="-240" HorizontalAlignment="Center" VerticalAlignment="Center">
+					<ItemTemplate>
+						<RichTextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" Brush="Recruitment.Popup.Title.Text" Brush.FontSize="32" Text="@Item" MarginTop="10"/>
+					</ItemTemplate>
+				</ListPanel>
+			</Children>
+
+		</ListPanel>
+	</Window>
+</Prefab>

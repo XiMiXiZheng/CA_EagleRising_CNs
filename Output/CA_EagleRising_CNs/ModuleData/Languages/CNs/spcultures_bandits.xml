@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+	<tags>
+		<tag language="简体中文"/>
+	</tags>
+	<strings>
+		<string id="cla_looters_culture" text="野蛮人"/>
+		<string id="cla_germanic_raiders_culture" text="日耳曼强盗"/>
+		<string id="cla_dacian_bandits" text="达契亚强盗"/>
+		<string id="cla_celt_bandits" text="凯尔特强盗"/>
+		<string id="cla_libyan_bandits" text="利比亚强盗"/>
+		<string id="cla_scythian_bandits" text="斯基泰强盗" />
+	</strings>
+</base>

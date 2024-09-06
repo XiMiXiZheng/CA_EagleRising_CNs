@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Module>
+	<Name value="CA_EagleRising_CNs"/>
+	<Id value="CA_EagleRising_CNs"/>
+	<Version value="v1.0.0"/>
+	<DefaultModule value="false"/>
+	<ModuleCategory value="Singleplayer"/>
+	<ModuleType value="Community"/>
+	<DependedModules>
+		<DependedModule Id="Native"/>
+		<DependedModule Id="SandBoxCore"/>
+		<DependedModule Id="Sandbox"/>
+		<DependedModule Id="CustomBattle"/>
+		<DependedModule Id="StoryMode"/>
+		<DependedModule Id="CA_EagleRising" Optional="false"/>
+	</DependedModules>
+	<DependedModuleMetadatas>
+		<DependedModuleMetadata id="Bannerlord.Harmony" order="LoadBeforeThis"/>
+		<DependedModuleMetadata id="Native" order="LoadBeforeThis"/>
+		<DependedModuleMetadata id="SandBoxCore" order="LoadBeforeThis"/>
+		<DependedModuleMetadata id="Sandbox" order="LoadBeforeThis"/>
+		<DependedModuleMetadata id="StoryMode" order="LoadBeforeThis"/>
+		<DependedModuleMetadata id="CustomBattle" order="LoadBeforeThis"/>
+		<DependedModuleMetadata id="CA_EagleRising" order="LoadBeforeThis"/>
+	</DependedModuleMetadatas>
+	<SubModules>
+		<SubModule>
+			<Name value="CA_EagleRising_CNs"/>
+			<DLLName value="CA_EagleRising_CNs.dll"/>
+			<SubModuleClassType value="CA_EagleRising_CNs.SubModule"/>
+			<Tags>
+				<Tag key="DedicatedServerType" value="none"/>
+				<Tag key="IsNoRenderModeElement" value="false"/>
+			</Tags>
+		</SubModule>
+	</SubModules>
+</Module>

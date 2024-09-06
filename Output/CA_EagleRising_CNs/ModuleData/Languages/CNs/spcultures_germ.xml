@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+	<tags>
+		<tag language="简体中文"/>
+	</tags>
+	<strings>
+		<string id="cla_germ_culture" text="日耳曼"/>
+		<string id="Ud1AMybr" text="北方的部落生活方式与周围文化截然不同。他们居住在小型、主要不设防的农村聚落中，这些聚落由几户财富相当的家庭组成。他们通过自给自足的农业、掠夺和贸易维生。其中一些人因其公正的交易和在战争中的尊重而成为领导者。他们过着艰苦的生活，骄傲于冒险精神和战斗技巧。他们的野蛮战斗、外国习俗以及眼中的神情让任何不幸遭遇他们的掠夺和迁徙的人感到恐惧。"/>
+
+		<!--男性角色名-->
+		<string id="germ_1_m" text="安苏莱巴兹" />
+		<string id="germ_2_m" text="安苏瓦尔达兹" />
+		<string id="germ_3_m" text="奥达里克斯" />
+		<string id="germ_4_m" text="奥达瓦克拉兹" />
+		<string id="germ_5_m" text="奥达瓦尔杜兹" />
+		<string id="germ_6_m" text="奥达维尼斯" />
+		<string id="germ_7_m" text="奥齐万迪拉兹" />
+		<string id="germ_8_m" text="阿塔拉盖扎兹" />
+		<string id="germ_9_m" text="巴尔塔维尼斯" />
+		<string id="germ_10_m" text="弗里苏里克斯" />
+		<string id="germ_11_m" text="盖扎里克斯" />
+		<string id="germ_12_m" text="格里马兹" />
+		<string id="germ_13_m" text="冈提莱巴兹" />
+		<string id="germ_14_m" text="哈贾瓦尔达兹" />
+		<string id="germ_15_m" text="海尔帕里克斯" />
+		<string id="germ_16_m" text="希尔迪里克斯" />
+		<string id="germ_17_m" text="赫罗提伯赫塔兹" />
+		<string id="germ_18_m" text="赫罗提盖扎兹" />
+		<string id="germ_19_m" text="赫罗提里克斯" />
+		<string id="germ_20_m" text="拉吉纳哈尔杜兹" />
+		<string id="germ_21_m" text="拉吉纳哈尔贾兹" />
+		<string id="germ_22_m" text="阿塔拉伯赫塔兹" />
+		<string id="germ_23_m" text="阿多" />
+		<string id="germ_24_m" text="奥达吉萨拉兹" />
+		<string id="germ_25_m" text="阿杜吉斯卢" />
+		<string id="germ_26_m" text="埃比" />
+		<string id="germ_27_m" text="艾博" />
+		<string id="germ_28_m" text="艾吉拉特鲁斯" />
+		<string id="germ_29_m" text="阿吉拉特鲁斯" />
+		<string id="germ_30_m" text="艾吉拉兹" />
+		<string id="germ_31_m" text="艾吉尔" />
+		<string id="germ_32_m" text="艾塔拉塔兹" />
+		<string id="germ_33_m" text="阿卡斯" />
+		<string id="germ_34_m" text="埃科" />
+		<string id="germ_35_m" text="阿拉维尼斯" />
+		<string id="germ_36_m" text="阿拉温" />
+		<string id="germ_37_m" text="阿尔吉斯卡西兹" />
+		<string id="germ_38_m" text="阿尔古斯卡西" />
+		<string id="germ_39_m" text="阿卢戈达兹" />
+		<string id="germ_40_m" text="阿卢戈德" />
+		<string id="germ_41_m" text="阿拉瓦尔多" />
+		<string id="germ_42_m" text="阿卢瓦卢多" />
+		<string id="germ_43_m" text="奥尼沃尔法兹" />
+		<string id="germ_44_m" text="埃尼沃尔夫乌" />
+		<string id="germ_45_m" text="阿拉吉萨拉兹" />
+		<string id="germ_46_m" text="阿罗吉斯尔" />
+		<string id="germ_47_m" text="阿尔瓦兹" />
+		<string id="germ_48_m" text="阿鲁维" />
+		<string id="germ_49_m" text="安苏吉萨拉兹" />
+		<string id="germ_50_m" text="阿苏吉萨拉兹" />
+		<string id="germ_51_m" text="安苏劳斯阿兹" />
+		<string id="germ_52_m" text="安苏拉斯" />
+		<string id="germ_53_m" text="比达瓦里贾兹" />
+		<string id="germ_54_m" text="比塔冈特霍" />
+		<string id="germ_55_m" text="布利特古斯" />
+		<string id="germ_56_m" text="埃里拉兹" />
+		<string id="germ_57_m" text="福佐" />
+		<string id="germ_58_m" text="盖巴哈里贾兹" />
+		<string id="germ_59_m" text="加巴尔" />
+		<string id="germ_60_m" text="格劳奥吉兹" />
+		<string id="germ_61_m" text="格里奥吉兹" />
+		<string id="germ_62_m" text="哈布卡兹" />
+		<string id="germ_63_m" text="哈布库" />
+		<string id="germ_64_m" text="哈达兹" />
+		<string id="germ_65_m" text="哈达" />
+		<string id="germ_66_m" text="赫尔马拉乌斯阿兹" />
+		<string id="germ_67_m" text="赫鲁沃尔法兹" />
+		<string id="germ_68_m" text="哈加拉达兹" />
+		<string id="germ_69_m" text="哈吉拉达兹" />
+		<string id="germ_70_m" text="海拉特维瓦兹" />
+		<string id="germ_71_m" text="哈利特瓦斯" />
+		<string id="germ_72_m" text="哈吉博科" />
+		<string id="germ_73_m" text="海瑞博基" />
+		<string id="germ_74_m" text="哈吉伯格兹" />
+		<string id="germ_75_m" text="哈伊布里格" />
+		<string id="germ_76_m" text="哈荣格兹" />
+		<string id="germ_77_m" text="哈里乌哈" />
+		<string id="germ_78_m" text="哈吉沃尔法兹" />
+		<string id="germ_79_m" text="哈里沃拉夫兹" />
+		<string id="germ_80_m" text="哈基兰" />
+		<string id="germ_81_m" text="哈基拉兹" />
+		<string id="germ_82_m" text="哈图沃尔法兹" />
+		<string id="germ_83_m" text="赫莱瓦加斯蒂兹" />
+
+		<!--女性角色名-->
+		<string id="germ_1_f" text="阿卢特拉吉纳姆" />
+		<string id="germ_2_f" text="鲁诺斯瓦巴兹" />
+		<string id="germ_3_f" text="汉杜蒙迪兹" />
+		<string id="germ_4_f" text="巴尔塔斯卡提兹" />
+		<string id="germ_5_f" text="阿塔拉莱特拉姆" />
+		<string id="germ_6_f" text="哈吉博伊德詹" />
+		<string id="germ_7_f" text="伊萨芬萨兹" />
+		<string id="germ_8_f" text="斯瓦纳哈琼" />
+		<string id="germ_9_f" text="弗洛沃尔卢达兹" />
+		<string id="germ_10_f" text="特奥多马提兹" />
+		<string id="germ_11_f" text="阿克维斯约特鲁斯提兹" />
+		<string id="germ_12_f" text="古达马瓦兹" />
+		<string id="germ_13_f" text="威拉伯格安" />
+		<string id="germ_14_fd" text="乌比拉瓦克拉兹" />
+		<string id="germ_15_f" text="艾纳格博" />
+		<string id="germ_16_f" text="埃尔托鲁诺" />
+		<string id="germ_17_f" text="埃尔玛纳布洛塔姆" />
+		<string id="germ_18_f" text="纽雅勒瓦姆" />
+		<string id="germ_19_f" text="劳辛乔" />
+		<string id="germ_20_f" text="富尔卡西卡姆" />
+		<string id="germ_21_f" text="斯瓦尔塔菲卢" />
+		<string id="germ_22_f" text="弗罗达希尔德乔" />
+		<string id="germ_23_f" text="马尔科汉杜兹" />
+		<string id="germ_24_f" text="奥塔拉玛格乔" />
+		<string id="germ_25_f" text="阿拉布利塔兹" />
+		<string id="germ_26_f" text="弗兰卡格博" />
+		<string id="germ_27_f" text="阿拉希尔德乔" />
+		<string id="germ_28_f" text="斯沃尔德马瓦兹" />
+		<string id="germ_29_f" text="伊萨尔纳布隆琼" />
+		<string id="germ_30_f" text="冈特约翰希尔德乔" />
+		<string id="germ_31_f" text="希尔德约冈特乔" />
+		<string id="germ_32_f" text="马蒂希尔德乔" />
+		<string id="germ_33_f" text="瑟希尔德乔" />
+		<string id="germ_34_f" text="希尔德约布隆乔" />
+		<string id="germ_35_f" text="艾尔冈特乔" />
+		<string id="germ_36_f" text="艾尔鲁诺" />
+
+		<!--姓-->
+		<string id="germ_1_c" text="瓦尔金加兹" />
+		<string id="germ_2_c" text="贝罗因加兹" />
+		<string id="germ_3_c" text="赫莱瓦加斯特加兹" />
+		<string id="germ_4_c" text="艾克辛加兹" />
+		<string id="germ_5_c" text="赫尔明加兹" />
+		<string id="germ_6_c" text="维加因加兹" />
+		<string id="germ_7_c" text="昆贾因加兹" />
+		<string id="germ_8_c" text="拉古因加兹" />
+		<string id="germ_9_c" text="赛瓦因加兹" />
+		<string id="germ_10_c" text="特鲁西因加兹" />
+		<string id="germ_11_c" text="斯克尔杜因加兹" />
+		<string id="germ_12_c" text="希尔迪布兰达因加兹" />
+		<string id="germ_13_c" text="提乌达里克辛加兹" />
+		<string id="germ_14_c" text="哈图布兰达因加兹" />
+		<string id="germ_15_c" text="哈贾弗里斯廷加兹" />
+		<string id="germ_16_c" text="奥齐万迪林加兹" />
+		<string id="germ_17_c" text="希尔迪里克因加兹" />
+		<string id="germ_18_c" text="西格加斯特加兹" />
+		<string id="germ_19_c" text="西格马林加兹" />
+		<string id="germ_20_c" text="哈图特瓦辛加兹" />
+
+	</strings>
+</base>
