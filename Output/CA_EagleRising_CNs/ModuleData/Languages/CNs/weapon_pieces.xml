@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+ <tags>
+  <tag language="简体中文"/>
+ </tags>
+ <strings>
+  <string id="cla_rome_weapon_pugio_low_blade" text="[罗马]匕首刃"/>
+  <string id="cla_rome_weapon_pugio_low_handle" text="[罗马]匕首握柄"/>
+  <string id="cla_rome_weapon_pugio_high_blade" text="[罗马]回火匕首刃"/>
+  <string id="cla_rome_weapon_pugio_high_handle" text="[罗马]结实匕首握柄"/>
+  <string id="cla_rome_weapon_gladius_blade_blunt" text="[罗马]罗马短剑钝刃"/>
+  <string id="cla_rome_weapon_gladius_fulham_low_blade" text="[罗马]罗马短剑刃 查拉斯式"/>
+  <string id="cla_rome_weapon_gladius_fulham_low_handle" text="[罗马]罗马短剑握柄 查拉斯式"/>
+  <string id="cla_rome_weapon_gladius_mainz_low_blade" text="[罗马]罗马短剑刃 巴拉韦纳斯式"/>
+  <string id="cla_rome_weapon_gladius_mainz_low_handle" text="[罗马]罗马短剑握柄 巴拉韦纳斯式"/>
+  <string id="cla_rome_weapon_gladius_mainz_cj_blade" text="[罗马]回火罗马短剑刃 巴拉韦纳斯式"/>
+  <string id="cla_rome_weapon_gladius_mainz_handle" text="[罗马]结实罗马短剑握柄 巴拉韦纳斯式"/>
+  <string id="cla_rome_weapon_gladius_mainz_gt_blade" text="[罗马]强化罗马短剑刃 巴拉韦纳斯式"/>
+  <string id="cla_rome_weapon_gladius_mainz_cj_handle" text="[罗马]装饰罗马短剑握柄 巴拉韦纳斯式"/>
+  <string id="cla_iberian_weapon_gladius_mid_bronze_blade_blunt" text="[伊比利亚]罗马短剑钝刃"/>
+  <string id="cla_iberian_weapon_gladius_mid_bronze_blade" text="[伊比利亚]罗马短剑刃"/>
+  <string id="cla_iberian_weapon_gladius_mid_bronze_handle" text="[伊比利亚]罗马短剑握柄"/>
+  <string id="cla_iberian_weapon_gladius_mid_iron_blade" text="[伊比利亚]短罗马剑刃"/>
+  <string id="cla_iberian_weapon_gladius_mid_iron_handle" text="[伊比利亚]罗马短剑握柄"/>
+  <string id="cla_iberian_weapon_gladius_decorated_bronze_blade" text="[伊比利亚]罗马短剑刃"/>
+  <string id="cla_iberian_weapon_gladius_decorated_bronze_handle" text="[伊比利亚]罗马短剑握柄"/>
+  <string id="cla_iberian_weapon_gladius_decorated_iron_blade" text="[伊比利亚]罗马短剑刃"/>
+  <string id="cla_iberian_weapon_gladius_decorated_iron_handle" text="[伊比利亚]罗马短剑握柄"/>
+  <string id="cla_rome_weapon_spatha_ejsbol_sarry_blade" text="[罗马]埃兹博尔·萨里罗马长剑刃"/>
+  <string id="cla_rome_weapon_spatha_ejsbol_sarry_handle" text="[罗马]埃兹博尔·萨里罗马长剑握柄"/>
+  <string id="cla_rome_weapon_spatha_podlodow_blade" text="[罗马]波德洛多罗马长剑刃"/>
+  <string id="cla_rome_weapon_spatha_podlodow_handle" text="[罗马]波德洛多罗马长剑握柄"/>
+  <string id="cla_rome_weapon_pilum_cjiaba_blade" text="[罗马]投矛头"/>
+  <string id="cla_rome_weapon_pilum_cjiaba_blade_weight" text="[罗马]加重投矛头"/>
+  <string id="cla_rome_weapon_pilum_cjiaba_handle" text="[罗马]投矛杆"/>
+  <string id="cla_rome_weapon_pilum_cjiaba_blade_training" text="[罗马]投矛钝头"/>
+  <string id="cla_rome_weapon_pilum_cjiaba_handle_training" text="[罗马]训练投矛杆"/>
+  <string id="cla_carthage_weapon_kopis_blade_1" text="[迦太基]科庇斯弯刀刃"/>
+  <string id="cla_carthage_weapon_kopis_handle_1" text="[迦太基]科庇斯弯刀握柄"/>
+  <string id="cla_carthage_weapon_kopis_blade_2" text="[迦太基]科庇斯弯刀刃"/>
+  <string id="cla_carthage_weapon_kopis_handle_2" text="[迦太基]科庇斯弯刀握柄"/>
+  <string id="cla_carthage_weapon_falcata_blade_blunt" text="[迦太基]法卡特弯刀钝刃"/>
+  <string id="cla_carthage_weapon_falcata_blade_1" text="[迦太基]法卡特弯刀刃"/>
+  <string id="cla_carthage_weapon_falcata_handle_1" text="[迦太基]法卡特弯刀握柄"/>
+  <string id="cla_carthage_weapon_falcata_blade_2" text="[迦太基]法卡特弯刀刃"/>
+  <string id="cla_carthage_weapon_falcata_handle_2" text="[迦太基]法卡特弯刀握柄"/>
+  <string id="cla_germanic_weapon_sword_single_blade_blunt" text="[日耳曼]单刃钝剑刃"/>
+  <string id="cla_germanic_weapon_sword_single_blade" text="[日耳曼]单刃剑刃"/>
+  <string id="cla_germanic_weapon_sword_single_handle" text="[日耳曼]单刃剑握柄"/>
+  <string id="cla_germanic_weapon_sword_single_blade_noble" text="[日耳曼]贵族单刃剑刃"/>
+  <string id="cla_germanic_weapon_sword_single_handle_noble" text="[日耳曼]贵族单刃剑握柄"/>
+  <string id="cla_weapon_spear_head_leaf_short_blunt" text="[日耳曼]叶形钝矛头"/>
+  <string id="cla_weapon_spear_head_leaf_short" text="[日耳曼]叶形短矛头"/>
+  <string id="cla_germanic_weapon_spear_head_leaf_blunt" text="[日耳曼]刻印叶形钝矛头"/>
+  <string id="cla_germanic_weapon_spear_head_leaf" text="[日耳曼]刻印叶形矛头"/>
+  <string id="cla_weapon_spear_head_kited" text="[日耳曼]针形矛头"/>
+  <string id="cla_weapon_spear_shaft_short" text="[日耳曼]标枪杆"/>
+  <string id="cla_weapon_spear_shaft_medium" text="[日耳曼]中型矛杆"/>
+  <string id="cla_weapon_spear_shaft_long" text="[日耳曼]长矛杆"/>
+  <string id="cla_germanic_weapon_spear_shaft_short" text="[日耳曼]彩绘标枪杆"/>
+  <string id="cla_germanic_weapon_spear_shaft_medium" text="[日耳曼]彩绘中型矛杆"/>
+  <string id="cla_germanic_weapon_spear_shaft_long" text="[日耳曼]彩绘长矛杆"/>
+ </strings>
+</base>

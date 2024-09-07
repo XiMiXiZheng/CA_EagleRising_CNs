@@ -4,7 +4,7 @@
 		<tag language="简体中文"/>
 	</tags>
 	<strings>
-		<string id="carthageculture" text="卡尼克-纳哈西"/>
+		<string id="carthageculture" text="迦太基"/>
 		<string id="a2AjI8nc" text="阿赛莱是卡尔拉迪亚南部青铜沙漠（Nahasa）的主要居民。对外人来说，这似乎是一个荒凉之地，沙丘被砾石平原和火山岩突起打破。但是，地下有水，被困在凹陷处或在偶尔有闪电洪水经过的wadi下，在这些绿洲上，人们定居了。他们分为数十个部落和子部落，每个部落都有其复杂的家谱，但统称为Banu Asera，即“Asera的儿子”。他们的国家意识（尽管有限）源于追溯他们的血统到这个传奇的祖先。 他们的财富和权力相当可观，来自于控制孤立的水源，这些水源使得来自遥远土地的商队能够穿越沙漠。"/>
 
 		<!--男性角色名-->
@@ -95,6 +95,5 @@
 		<string id="carthage_clan_9" text="祖昆尼姆" />
 		<string id="carthage_clan_10" text="本尼·马戈" />
 		<string id="carthage_clan_11" text="本尼·亚姆" />
-
 	</strings>
 </base>

@@ -4,11 +4,35 @@
 		<tag language="简体中文"/>
 	</tags>
 	<strings>
+		<!--spcultures_bandits文件中字符-->
 		<string id="cla_looters_culture" text="野蛮人"/>
 		<string id="cla_germanic_raiders_culture" text="日耳曼强盗"/>
 		<string id="cla_dacian_bandits" text="达契亚强盗"/>
 		<string id="cla_celt_bandits" text="凯尔特强盗"/>
 		<string id="cla_libyan_bandits" text="利比亚强盗"/>
 		<string id="cla_scythian_bandits" text="斯基泰强盗" />
+		<string id="cla_looter" text="野蛮人" />
+		<string id="forest_bandits_bandit" text="凯尔特盗贼" />
+		<string id="forest_bandits_raider" text="凯尔特山贼" />
+		<string id="forest_bandits_chief" text="凯尔特掠夺者" />
+		<string id="forest_bandits_boss" text="凯尔特掠夺者首领" />
+		<string id="mountain_bandits_bandit" text="达契亚盗贼" />
+		<string id="mountain_bandits_raider" text="达契亚山贼" />
+		<string id="mountain_bandits_chief" text="达契亚掠夺者" />
+		<string id="mountain_bandits_boss" text="达契亚掠夺者首领" />
+		<string id="desert_bandits_bandit" text="利比亚盗贼" />
+		<string id="desert_bandits_raider" text="利比亚山贼" />
+		<string id="desert_bandits_chief" text="利比亚掠夺者" />
+		<string id="desert_bandits_boss" text="利比亚掠夺者首领" />
+		<string id="steppe_bandits_bandit" text="斯基泰盗贼" />
+		<string id="steppe_bandits_raider" text="斯基泰山贼" />
+		<string id="steppe_bandits_chief" text="斯基泰掠夺者" />
+		<string id="steppe_bandits_boss" text="斯基泰掠夺者首领" />
+		<string id="sea_raiders_bandit" text="日耳曼盗贼" />
+		<string id="sea_raiders_raider" text="日耳曼山贼" />
+		<string id="sea_raiders_chief" text="日耳曼掠夺夺者" />
+		<string id="sea_raiders_boss" text="日耳曼掠夺者首领" />
+		<string id="cla_bandit_gladiator_1" text="叛乱角斗士" />
+		<string id="cla_bandit_gladiator_2" text="历战角斗士" />
 	</strings>
 </base>

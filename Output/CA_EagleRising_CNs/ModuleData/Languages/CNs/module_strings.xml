@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+	<tags>
+		<tag language="简体中文"/>
+	</tags>
+	<strings>
+		<!-- Muse's Armory -->
+		<string id="cla_armoury_enter" text="造访铁匠工会"/>
+		<string id="cla_armoury_buy_not_faction" text="浏览公共军械库"/>
+		<string id="cla_armoury_buy_faction" text="浏览军用军械库"/>
+		<string id="cla_armoury_buy_faction" text="回到镇上"/>
+
+		<!-- Factions -->
+		<string id="str_culture_description.dacia" text="达契亚是色雷斯人的一支，是当代的罗马尼亚人和摩尔多瓦人的族源之一。罗马曾耗费大量资源征服达西亚，公元101—106年，罗马皇帝图拉真曾二次兴兵攻打多瑙河下游的达基亚人，推翻了达基亚国王德西巴卢斯的统治，把他的王国变为罗马的一个行省，并将大批罗马士兵和贫民移植到那里去屯垦。罗马征服了达基亚后，本来缺乏对攻击可靠保障的边境线，比以往还长，更加不合理。"/>
+		<string id="z0J5E53c" text="凯尔特人，他们在罗马帝国时期与日耳曼人、斯拉夫人一起被罗马人并称为欧洲的三大蛮族，也是现今欧洲人的代表民族之一。大约从公元前500年开始，凯尔特人从欧洲大陆进犯并占领了不列颠诸岛，一部分凯尔特人在今天的爱尔兰和苏格兰定居下来，其余的一部分占领了今天的英格兰的南部和东部。凯尔特人讲凯尔特语。今天居住在苏格兰北部和西部山地的盖尔人（Gales）仍使用这种语言。在英语形成之前凯尔特语是在不列颠岛上所能发现的具有史料依据的最早的语言。差不多在与进犯不列颠岛的同时，一部分凯尔特人越过莱茵河进入法国东北部，在塞纳河以北，阿登山区以西和以南的地区定居。公元前500年以后，法国已成为凯尔特人主要的居住地区。古罗马人把居住在今天法国、比利时、瑞士、荷兰、德国南部和意大利北部的凯尔特人统称为高卢人，把高卢人居住的地区称为高卢，面积约60余万平方公里。之后他们曾经一度广泛分布在欧洲大陆上，先后征服了法国、西班牙、葡萄牙、意大利等地区。"/>
+		<string id="3Ujo4ba7" text="斯基泰人，古代波斯人称之为萨卡人，是南俄草原上印欧语系东伊朗语族之游牧民族。斯基泰随居地从今日俄罗斯东部的欧洲部分一直到内蒙古和鄂尔多斯沙漠，是史载最早之游牧民族，善于养马，据信骑术与奶酪等皆出于其发明。
+公元前625年，斯基泰人侵入叙利亚和位于今巴勒斯坦南部的朱迪亚，后来兵锋达埃及边境。法老萨姆提克一世(公元前664～前610在位)被迫与之签约以阻其继续南侵。这部分斯基泰人后来受米底帝国打击退回南俄。公元前513年，斯基泰王伊当提尔苏斯举兵反对波斯王大流士一世，在政治上统一整个斯基泰人。希腊边境城邦被迫每年纳贡以免遭掠劫。斯基泰王国在公元前5～前4世纪(一说在公元前2世纪)形成。"/>
+		<string id="str_culture_description.germanics" text="日耳曼人，他们在罗马帝国时期与凯尔特人、斯拉夫人一起被罗马人并称为欧洲的三大蛮族，也是现今欧洲人的代表民族之一。关于日耳曼人的最早文字记载，是古希腊作家皮提亚斯的旅行记，罗马人塔西佗说凯尔特人称莱茵河以东的民族为“日耳曼人”，古罗马独裁官盖乌斯·尤利乌斯·恺撒也在《高卢战记》中提到日耳曼人。
+现今瑞典南部境内、挪威西部境内的斯堪的纳维亚半岛，被认为是日耳曼人的故乡，后部分向欧洲南部迁徙，于罗马帝国时期南迁至德国北部并分裂为多个部落，赶走了居住在阿尔卑斯山北部广大平原上的凯尔特人。西罗马帝国灭亡后在其废墟上建立了多个国家，并在发展途中大力吸收、继承和发扬了源自古希腊与古罗马的自然科学知识与经验，在古罗马合法并经过改造过后的基督教（来源自犹太），13世纪前迅速崛起。"/>
+		<string id="str_culture_description.carthage" text="公元前九世纪末，腓尼基人在此建立殖民城邦。公元前七世纪，发展成为强大的奴隶制国家。首都迦太基城（今突尼斯城）。疆域包括北非西部沿海，西班牙南部，西西里岛大部以及科西嘉岛、撒丁岛和巴利阿里群岛，垄断西地中海海运贸易。公元前三世纪七十年代，罗马对外扩张，成为迦太基的劲敌，爆发了古代史上著名的三次“布匿战争”。最后迦太基灭亡。公元前147年，迦太基城被罗马军夷为废墟。后来在迦太基城原址附近建立新城，并成为罗马帝国的阿非利加省首府。"/>
+		<string id="91Kq0JWb" text="古罗马，是指从公元前9世纪初在意大利半岛中部兴起的文明，古罗马先后经历罗马王政时代（前753～前509年）、罗马共和国（前509～前 27年）、罗马帝国（前27～476年/1453年）三个阶段。公元1-2世纪是罗马历史上最辉煌的时期。公元前3世纪至前2世纪，罗马为争夺地中海霸权，掠夺资源与奴隶，同地中海西部强国迦太基进行了三次战争，史称布匿战争。公元前2世纪，罗马成为地中海霸主。罗马共和时代基本完成疆域扩张，到公元1世纪前后扩张成为横跨欧亚非、称霸地中海的庞大罗马帝国。"/>
+
+		<string id="str_culture_rich_name.dacia" text="达契亚" />
+		<string id="str_culture_rich_name.celt" text="凯尔特" />
+		<string id="str_culture_rich_name.scyth" text="斯基泰" />
+		<string id="str_culture_rich_name.germanic" text="日耳曼" />
+		<string id="str_culture_rich_name.carthage" text="迦太基" />
+		<string id="str_culture_rich_name.rome" text="罗马" />
+
+		<string id="str_faction_official.rome" text="军团长" />
+		<string id="str_faction_official.rome_f" text="军团长" />
+		<string id="str_faction_ruler.rome" text="皇帝" />
+		<string id="str_faction_ruler.rome_f" text="女皇" />
+		<string id="str_faction_ruler_term_in_speech.rome" text="{?RULER.GENDER}女皇{?}皇帝{\?} {RULER.NAME}" />
+		<string id="str_faction_ruler_name_with_title.rome" text="{?RULER.GENDER}女皇{?}皇帝{\?} {RULER.NAME}" />
+		<string id="str_faction_noble_name_with_title.rome" text="{?RULER.GENDER}多米娜{?}军团长{\?} {RULER.NAME}" />
+
+		<string id="str_faction_official.dacia}a pilofori" text="皮洛弗里" />
+		<string id="str_faction_official.dacia_f" text="皮洛弗娜" />
+
+		<string id="str_faction_official.celt" text="蒂格尼斯" />
+		<string id="str_faction_official.celt_f" text="蒂格尼丝" />
+		<string id="str_faction_ruler.celt" text="国王" />
+		<string id="str_faction_ruler.celt_f" text="女王" />
+		<string id="str_faction_ruler_term_in_speech.celt" text="{?RULER.GENDER}女王{?}国王{\?} {RULER.NAME}" />
+		<string id="str_faction_ruler_name_with_title.celt" text="{?RULER.GENDER}女王{?}国王{\?} {RULER.NAME}" />
+		<string id="str_faction_noble_name_with_title.celt" text="{?RULER.GENDER}蒂格尼丝{?}蒂格尼斯{\?} {RULER.NAME}" />
+
+		<string id="str_faction_official.scyth" text="瓦兹丹" />
+		<string id="str_faction_official.scyth_f" text="瓦兹丹" />
+		<string id="str_faction_ruler.scyth" text="可汗" />
+		<string id="str_faction_ruler.scyth_f" text="可汗" />
+		<string id="str_faction_ruler_term_in_speech.scyth" text="{RULER.NAME} {?RULER.GENDER}可汗{?}可汗{\?}" />
+		<string id="str_faction_ruler_name_with_title.scyth" text="{RULER.NAME} {?RULER.GENDER}可汗{?}可汗{\?}" />
+		<string id="str_faction_noble_name_with_title.scyth" text="{RULER.NAME} {?RULER.GENDER}瓦兹丹{?}瓦兹丹{\?}" />
+
+		<string id="str_faction_official.carthage" text="阿多" />
+		<string id="str_faction_official.carthage_f" text="巴拉特" />
+		<string id="str_faction_ruler.carthage" text="国王" />
+		<string id="str_faction_ruler.carthage_f}me" text="女王" />
+		<string id="str_faction_ruler_term_in_speech.carthage" text="{?RULER.GENDER}女王{?}国王{\?} {RULER.NAME}" />
+		<string id="str_faction_ruler_name_with_title.carthage" text="{?RULER.GENDER}女王{?}国王{\?} {RULER.NAME}" />
+		<string id="str_faction_noble_name_with_title.carthage" text="{?RULER.GENDER}巴拉特{?}阿多{\?} {RULER.NAME}" />
+
+		<string id="str_faction_official.germanic" text="德鲁提纳兹" />
+		<string id="str_faction_official.germanic_f" text="法拉乔" />
+		<string id="str_faction_ruler.germanic" text="国王" />
+		<string id="str_faction_ruler.germanic_f" text="女王" />
+		<string id="str_faction_ruler_term_in_speech.germanic" text="{?RULER.GENDER}女王{?}国王{\?} {RULER.NAME}" />
+		<string id="str_faction_ruler_name_with_title.germanic" text="{?RULER.GENDER}女王{?}国王{\?} {RULER.NAME}" />
+		<string id="str_faction_noble_name_with_title.germanic" text="{?RULER.GENDER}法拉乔{?}德鲁提纳兹{\?} {RULER.NAME}" />
+
+		<!-- "The southern imperial forces have withdrawn" -->
+		<string id="str_adjective_for_faction.scyth" text="斯基泰" />
+		<!--
+    <string id="str_adjective_for_faction.cla_kingdom_scythia_1" text="{=str_adjective_for_faction.cla_kingdom_scythia_1}Scyth" />-->
+		<string id="str_adjective_for_faction.carthage" text="迦太基" />
+		<string id="str_adjective_for_faction.battania" text="凯尔特" />
+		<string id="str_adjective_for_faction.dacia" text="达契亚" />
+		<string id="str_adjective_for_faction.germanic" text="日耳曼" />
+		<!--
+    <string id="str_adjective_for_faction.cla_kingdom_germanic_1" text="{=str_adjective_for_faction.cla_kingdom_germanic_1}Anomannaz" />
+    <string id="str_adjective_for_faction.cla_kingdom_germanic_2" text="{=str_adjective_for_faction.cla_kingdom_germanic_2}Swebagaistaz" />-->
+		<string id="nD1ZQ7He" text="北罗马" />
+		<string id="Iov4Z5FB" text="西罗马" />
+		<string id="44zTqTuN" text="南罗马" />
+		<!-- "Not much left after the Southern Empire raided the place" -->
+		<string id="str_short_term_for_faction.scyt" text="斯基泰" />
+		<!--
+    <string id="str_short_term_for_faction.cla_kingdom_scythia_1" text="{=str_short_term_for_faction.cla_kingdom_scythia_1}Scyth" />-->
+		<string id="str_short_term_for_faction.carthage" text="迦太基" />
+		<string id="str_short_term_for_faction.celts" text="凯尔特" />
+		<string id="str_short_term_for_faction.vlandia" text="达契亚" />
+		<string id="str_short_term_for_faction.germanic" text="日耳曼" />
+		<!--
+    <string id="str_short_term_for_faction.cla_kingdom_germanic_1" text="{=str_short_term_for_faction.cla_kingdom_germanic_1}Anomannaz" />
+    <string id="str_short_term_for_faction.cla_kingdom_germanic_2" text="{=str_short_term_for_faction.cla_kingdom_germanic_2}Swebagaistaz" />-->
+		<string id="EgvYnJSx" text="北罗马" />
+		<string id="xCVoZ8yn" text="西罗马" />
+		<string id="M25RQOuT" text="南罗马" />
+		<!-- The formal name for a faction is derived from the culture, as the southern Empire doesn't consider itself the 'southern Empire,' it considers itself the sole legitimate empire -->
+		<!-- "In the name of the Calradian Empire, I welcome you" -->
+		<string id="str_faction_formal_name_for_culture.dacia" text="达契亚王国" />
+		<string id="str_faction_formal_name_for_culture.celt" text="凯尔特至高王国" />
+		<string id="str_faction_formal_name_for_culture.scyth" text="斯基泰部落" />
+		<string id="str_faction_formal_name_for_culture.germanic" text="日耳曼部落" />
+		<string id="str_faction_formal_name_for_culture.aserai" text="迦太基共和国" />
+		<string id="str_faction_formal_name_for_culture.rome" text="罗马帝国" />
+		<!-- "The language and laws of the Empire" -->
+		<string id="str_faction_informal_name_for_culture.dacia" text="达契亚" />
+		<string id="str_faction_informal_name_for_culture.celt" text="凯尔特" />
+		<string id="str_faction_informal_name_for_culture.scyth" text="斯基泰" />
+		<string id="str_faction_informal_name_for_culture.germanic" text="日耳曼" />
+		<string id="str_faction_informal_name_for_culture.carthage" text="共和国" />
+		<string id="str_faction_informal_name_for_culture.rome" text="帝国" />
+		<!-- I will teach you imperial ways -->
+		<string id="str_adjective_for_culture.scyth" text="斯基泰" />
+		<string id="str_adjective_for_culture.carthage" text="迦太基" />
+		<string id="str_adjective_for_culture.celt" text="凯尔特" />
+		<string id="str_adjective_for_culture.dacia" text="达契亚" />
+		<string id="str_adjective_for_culture.germanic" text="日耳曼" />
+		<string id="gqyMrySN" text="罗马" />
+		<!-- I don't care for the imperials and their big, decadent cities -->
+		<string id="str_neutral_term_for_culture.scyth" text="斯基泰" />
+		<string id="str_neutral_term_for_culture.carthage" text="迦太基" />
+		<string id="str_neutral_term_for_culture.celt" text="凯尔特" />
+		<string id="str_neutral_term_for_culture.dacia" text="达契亚" />
+		<string id="str_neutral_term_for_culture.germanic" text="日耳曼" />
+
+		<!-- Patreon Companions -->
+		<!-- the bull -->
+		<string id="prebackstory.cla_carthage_wanderer_patreon_enabled_user" text="(Patreon Companion: Enabled User) 我的生活并不总是充满乐趣，但既然你问了……" />
+		<string id="backstory_a.cla_carthage_wanderer_patreon_enabled_user" text="从哪里说起呢……我出生在一个被诅咒的农村家庭，但我认为我命由我不由天，一有机会，我就会去尝试参军来改变我家庭的命运。有一次……差一点就成功了……但并非没有牺牲。期间，我看清了人性，源自愚昧和贪婪的黑暗面。" />
+		<string id="backstory_b.cla_carthage_wanderer_patreon_enabled_user" text="事情本来很顺利。我将我的战斗技能锤炼到炉火纯青，一步步爬上了高位。直到有一天，我被突然罢职，一个没有任何经验的白痴矮子，靠着家族地位代替我的职位。一周之内，我的方阵……那些与我出生入死、血浓于水的兄弟……不复存在……" />
+		<string id="backstory_c.cla_carthage_wanderer_patreon_enabled_user" text="我气得热血沸腾，浑身颤抖，我甚至想跑过去掐死这个矮子。但可笑的现实是，我选择了逃避——我不想让我的家人处于危险之中。我可以一生背负这种屈辱，但我绝对不会让我的家人受伤，所以我离开了。" />
+		<string id="response_1.cla_carthage_wanderer_patreon_enabled_user" text="你已经受够了……" />
+		<string id="response_2.cla_carthage_wanderer_patreon_enabled_user" text="哈，一场血战就让你屈服了？对你这种没有任何勇气、丝毫荣誉的人，我可没有一点丁耐心。" />
+		<string id="backstory_d.cla_carthage_wanderer_patreon_enabled_user" text="在这之后，我一直以雇佣兵的身份四处游荡。我放弃改变我的命运，只是希望可以帮助我死去战友的家人。总有一天，有人会看到我作为一个士兵和指挥官的价值……一个像我一样，命运飘摇不定的人。只有到那时，我才会回到我的家人身边。只要我能在战斗中，发挥自己的特长，做出准确迅速的判断，我就会永远保持忠诚。" />
+		<string id="generic_backstory.cla_carthage_wanderer_patreon_enabled_user" text="我是一个充满战斗精神的战士，有着训练士兵和指挥军队经验。或许很多人都有这种能力——但没有人比我更精炼、更致命。" />
+	</strings>
+</base>
