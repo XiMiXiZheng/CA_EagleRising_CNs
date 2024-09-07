@@ -35,4 +35,11 @@
 	<xsl:template match="Kingdoms/Kingdom[@id='empire_s']/@title">
 		<xsl:attribute name="title">{=ptkvhXv4}</xsl:attribute>
 	</xsl:template>
+
+	<xsl:template match="Kingdoms/Kingdom[@id='battania']/@name">
+		<xsl:attribute name="name">{=Zok3yY7B}Battania</xsl:attribute>
+	</xsl:template>
+	<xsl:template match="Kingdoms/Kingdom[@id='battania']/@title">
+		<xsl:attribute name="title">{=NpEy0Zd3}High Kingdom of the Battanians</xsl:attribute>
+	</xsl:template>
 </xsl:stylesheet>
