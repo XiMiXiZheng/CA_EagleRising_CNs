@@ -6,6 +6,8 @@
  <strings>
 	<string id="KTObbG71" text="“蒙冤者”{FIRSTNAME}"/>
 	<string id="c5Kjcxsa" text="“女猎人”{FIRSTNAME}"/>
+	<string id="cla_carthage_wanderer_patreon_enabled_user" text="“仁慈的”洛伦佐"/>
+	 
 	<string id="cla_carthage_militia_archer" text="[利比亚]民兵射手"/>
 	<string id="cla_carthage_militia_archer" text="[利比亚]民兵射手"/>
     <string id="cla_carthage_militia_veteran_archer" text="[利比亚]资深民兵射手"/>
