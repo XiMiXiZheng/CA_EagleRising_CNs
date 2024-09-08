@@ -2,7 +2,7 @@
 <Module>
 	<Name value="CA_EagleRising_CNs"/>
 	<Id value="CA_EagleRising_CNs"/>
-	<Version value="v1.0.0"/>
+	<Version value="v3.2.6"/>
 	<DefaultModule value="false"/>
 	<ModuleCategory value="Singleplayer"/>
 	<ModuleType value="Community"/>
