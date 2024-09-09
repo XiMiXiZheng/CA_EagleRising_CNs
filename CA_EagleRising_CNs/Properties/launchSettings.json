@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CA_EagleRising_CNs": {
+      "commandName": "Executable",
+      "executablePath": "E:\\Program Files (x86)\\Steam\\steamapps\\common\\Mount & Blade II Bannerlord\\bin\\Win64_Shipping_Client\\Bannerlord.exe",
+      "commandLineArgs": "/singleplayer _MODULES_*Native*SandBoxCore*CustomBattle*SandBox*StoryMode*CA_EagleRising_CNs*_MODULES_",
+      "workingDirectory": "E:\\Program Files (x86)\\Steam\\steamapps\\common\\Mount & Blade II Bannerlord\\bin\\Win64_Shipping_Client"
+    }
+  }
+}
