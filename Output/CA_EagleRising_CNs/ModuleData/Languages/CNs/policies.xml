@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+ <tags>
+	 <tag language="简体中文"/>
+ </tags>
+ <strings>
+	 <!--王国政策-->
+	 <string id="dcJ56OiA" text="劳役"/>
+	 <string id="IvTDs065" text="无法支付赎金或债务的人会被国家强制劳动，直到他们的债务偿还为止。"/>
+	 <string id="cvTm0kTN" text="征发罪犯和欠债人强制劳动"/>
+	 <string id="4hk6b69m" text="每个关押在城镇或城堡地牢中的囚犯将增加 0.25 的建筑进度，并降低 0.01 的治安度。
+通常，囚犯大约需要一年时间来通过劳动赚取足够的赎金来赎回自己。"/>
+
+	 <string id="TmiRL2YV" text="公共土地委员会"/>
+	 <string id="h1clv2g8" text="土地委员从富有的地主手中购买未耕种的土地，并将其重新分配给贫困的无地公民和退伍军人进行耕种。，直到他们的债务偿还为止。"/>
+	 <string id="HVdMluuL" text="建立公共土地委员会"/>
+	 <string id="DWvCZUfx" text="村庄户数 +0.8
+每个村庄 -100 第纳尔
+每位关系低于30的村庄要人使你每日 -0.1影响力"/>
+	 
+	 <string id="EvPsmObX" text="万神殿"/>
+	 <string id="d80c80x4" text="被征服者的神祇被融入王国的万神殿中。 "/>
+	 <string id="IQbsX6NP" text="将外来神祇纳入万神殿"/>
+	 <string id="hqNP3eVq" text="本地家族和当地文化不同时，每日忠诚度 +1。
+本地家族和当地文化不同时，每日影响力 -2。"/>
+
+	 <string id="yaEzBNBa" text="私人税务征收员"/>
+	 <string id="z1vo2gnr" text="税务征收合同由国家拍卖给私人个体。虽然税务征收员为国家提供直接和即时的资金，但他们通过榨取过高的金额来征税的方法使他们在当地人中不受欢迎。 "/>
+	 <string id="3BlrFOHG" text="开始拍卖税务征收权"/>
+	 <string id="BiNDpyLY" text="城镇和城堡的税收 +15%
+城镇和城堡的忠诚度 -2"/>
+
+	 <string id="zpGNlZFy" text="军事劳动力"/>
+	 <string id="74Wl2cgq" text="当士兵不忙于征战时，他们将建设基础设施。"/>
+	 <string id="LuYF4EEA" text="使用士兵进行建设项目"/>
+	 <string id="fapbpQS0" text="定居点驻军和在本家族定居点休整的本家族成员士兵，每人每日增加0.15建设速度
+士兵薪酬提高 10%。"/>
+
+	 <string id="Ssre9Hzs" text="石匠公会"/>
+	 <string id="BppY9mfS" text="国家将向石匠公会授予特权。 "/>
+	 <string id="8bcT4SZc" text="向石匠公会授予特权"/>
+	 <string id="VfB2gCwC" text="定居点建造速度提高25%。
+定居点建造成本提高30%"/>
+
+	 <string id="3EJc6Xnk" text="常备军"/>
+	 <string id="xZsMBMhZ" text="职业军人将取代季节性征兵，组建常备军。 "/>
+	 <string id="3myVdW73" text="将新兵重新整训为常备军"/>
+	 <string id="1d3NWQib" text="统治者家族额外同伴限制+4，非统治者家族额外同伴限制+2
+士兵薪酬提高15%"/>
+
+	 <string id="3LU7g9a6" text="谷物救济"/>
+	 <string id="l1Yf1qbr" text="国家储存谷物，并以优惠价格出售给最贫困的公民。"/>
+	 <string id="VRMLo4Lp" text="为贫困公民购买谷物发放补贴"/>
+	 <string id="LMUODbwg" text="定居点忠诚度+1
+定居点每2000繁荣度食物+2
+政策成本，定居点每1000繁荣度花费50第纳尔"/>
+
+	 <string id="Unhm0Vr5" text="赞助"/>
+	 <string id="5GpH7IeV" text="一种等级互利的体系，赞助人通常为他的客户提供物质和财政支持，而客户则通过政治支持或工作来回报赞助人，以提升赞助人的声望。"/>
+	 <string id="l0WhoXHE" text="采用赞助人-客户制度"/>
+	 <string id="cYlDQyir" text="统治者家族向非统治者家族每日支付200第纳尔,每个非统治者家族每日为其增加1点影响力，非统治者家族每日影响力-1
+定居点统治者向当地每位要人每日支付10第纳尔，换取每位要人每日为其增加0.05影响力，要人自己每日增加0.1权望
+随时间改善关系"/>
+
+	 <!--定居点日常活动-->
+	 <string id="N2fXW1Kv" text="城市基础设施"/>
+	 <string id="T2bxWTHf" text="住宅区、仓库、医院、下水道、公共浴场。这些设施有助于缓解因高繁荣度导致的过度拥挤问题，并增加粮仓的存储容量。"/>
+	 <string id="WHOFx2CP" text="食物存储，没有负面影响当繁荣度低于"/>
+
+	 <string id="KvhxTFzv" text="民用基础设施"/>
+	 <string id="HWzAPlhF" text="法院、神庙、公共建筑等与国家运作相关的设施。为拥有该城镇的家族产生定居点忠诚度和影响力。"/>
+	 <string id="HG6snjnR" text="忠诚度和"/>
+	 <string id="bRsbzYXF" text="影响力"/>
+	 
+	 <string id="L6mPPFGx" text="农村基础设施"/>
+	 <string id="hu0grwZH" text="灌溉工程、乡村道路、土地清理项目。为定居点提供食物，并促进附属村庄的人口增长。"/>
+	 <string id="FTH5eG31" text="食物生产和"/>
+	 <string id="vNTr4vqe" text="户数增长"/>
+
+	 <string id="LEGu1Nh2" text="军事基础设施"/>
+	 <string id="5Ez2TILC" text="军械库、前哨、训练场和兵营。增加定居点的驻军规模并提高民兵的训练速度。"/>
+	 <string id="IH7gPNBQ" text="驻军和囚犯规模，"/>
+	 <string id="zbnbXIYQ" text="民兵增长和"/>
+	 <string id="lecVbePL" text="家族部队限制"/>
+
+	 <string id="uS36UvYz" text="当前等级"/>
+	 <string id="WXAJKNsb" text="完成"/>
+	 <string id="cwsQBtoA" text="天"/>
+ </strings>
+</base>

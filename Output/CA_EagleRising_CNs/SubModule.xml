@@ -12,7 +12,7 @@
 		<DependedModule Id="Sandbox"/>
 		<DependedModule Id="CustomBattle"/>
 		<DependedModule Id="StoryMode"/>
-		<DependedModule Id="CA_EagleRising" Optional="false"/>
+		<!-- <DependedModule Id="CA_EagleRising" Optional="false"/> -->
 	</DependedModules>
 	<DependedModuleMetadatas>
 		<DependedModuleMetadata id="Bannerlord.Harmony" order="LoadBeforeThis"/>
@@ -21,7 +21,7 @@
 		<DependedModuleMetadata id="Sandbox" order="LoadBeforeThis"/>
 		<DependedModuleMetadata id="StoryMode" order="LoadBeforeThis"/>
 		<DependedModuleMetadata id="CustomBattle" order="LoadBeforeThis"/>
-		<DependedModuleMetadata id="CA_EagleRising" order="LoadBeforeThis"/>
+		<!-- <DependedModuleMetadata id="CA_EagleRising" order="LoadBeforeThis"/> -->
 	</DependedModuleMetadatas>
 	<SubModules>
 		<SubModule>
@@ -34,7 +34,7 @@
 			</Tags>
 		</SubModule>
 	</SubModules>
-	<Xmls>
+	<!-- <Xmls>
 		<XmlNode>
             <XmlName id="GameText" path="module_strings"/>
             <IncludedGameTypes>
@@ -81,5 +81,5 @@
 				<GameType value = "EditorGame"/>
 			</IncludedGameTypes>
 	</XmlNode>
-	</Xmls>
+	</Xmls> -->
 </Module>
